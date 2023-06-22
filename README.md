@@ -1,5 +1,4 @@
-## ThinkTok
-
+![ThinkTok logo](thinktok-logo.png)
 ## The problem with learning today
 Students with ADHD face many obstacles to their learning. Many of these students have difficulty
 focusing and paying attention when reading larger texts, such as textbooks, research papers, or textbooks. *We need a better way to help these students learn*.

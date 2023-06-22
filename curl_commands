@@ -1,2 +1,0 @@
-curl localhost:8080/load?link=https://static1.squarespace.com/static/54889e73e4b0a2c1f9891289/t/564b6702e4b022509140783b/1447782146111/Sontag-Against+Interpretation.pdf \
-  -H "Content-Type: application/json" \
